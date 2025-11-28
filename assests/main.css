@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+a{
+    text-decoration: none;
+}
+.text{
+    top: 5%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.price{
+    color: #fe8900;
+}
+.link-color{
+  color: #00b30f;  
+  transition: all 0.3s ease-in-out;
+}
+.btn-link{
+    text-decoration: none;
+    background-color: white;
+    padding: 1rem;
+}
+.btn-link:active{
+    background-color: #014707;
+}
+.link-color:hover{
+    color: #014707;
+}
