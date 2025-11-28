@@ -23,9 +23,6 @@ a{
     background-color: white;
     padding: 1rem;
 }
-.btn-link:active{
-    background-color: #014707;
-}
 .link-color:hover{
     color: #014707;
 }
